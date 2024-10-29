@@ -12,7 +12,7 @@ const CardZ = () => {
             <div className="overflow-hidden rounded-t-lg shadow- bg-white">
               <img
                 className="w-full min-h-fit object-cover aspect-video"
-                src="../src/assets/baby.jpg"
+                src="https://images.pexels.com/photos/28960478/pexels-photo-28960478/free-photo-of-scenic-lighthouse-on-rocky-coastal-path.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt=""
               />
             </div>
